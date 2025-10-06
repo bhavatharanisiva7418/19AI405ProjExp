@@ -13,6 +13,7 @@
 </ol>
 
 ### PROGRAM:
+```
 py
 M = 9
 def puzzle(a):
@@ -72,3 +73,4 @@ if (Suduko(grid, 0, 0)):
     puzzle(grid)
 else:
     print("Solution does not exist:")
+```
